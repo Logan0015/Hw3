@@ -13,6 +13,7 @@
         <form name="demoForm" action="results.jsp" method="post">
             
             <h1>Simple Salary Calculator</h1>
+            <hr>
             
             <table>
                 

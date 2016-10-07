@@ -22,6 +22,7 @@
     
     <body>
         <h1>Your Salary</h1>
+        <hr>
         
             <table border='1'>
             <tbody>
