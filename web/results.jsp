@@ -1,9 +1,3 @@
-<%-- 
-    Document   : results
-    Created on : Oct 7, 2016, 12:44:14 AM
-    Author     : Logan
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
